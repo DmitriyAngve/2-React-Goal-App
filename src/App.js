@@ -1,4 +1,4 @@
-//
+// https://github.com/DmitriyAngve/React-Goal-App
 
 import React, { useState } from "react";
 

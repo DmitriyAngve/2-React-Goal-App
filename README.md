@@ -1,4 +1,4 @@
-# React-Goal-App
+# 2 - React-Goal-App
 
 In this React app I learned about Styling Components and different techniques for setting styles dynamically like a conditional or dynamic way. I used third-party library "Styled Components" and concept called CSS modules.
 
